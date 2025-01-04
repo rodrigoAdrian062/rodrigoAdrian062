@@ -1,5 +1,13 @@
 # 💫 Sobre mim:
-👋 Oi, eu sou Rodrigo, Desenvolvedor Web, formado em ciência da computação, atualmente estudo engenharia da computação em busca de conhecimento e se atualizando,<br>estou buscando oportunidades na área de desenvolvimento e contribuir com projetos open source.
+👋 Rodrigo: Explorador do Mundo da Tecnologia e Programação
+
+Olá sou apaixonado por tecnologia, programação e a arte de criar códigos. Desde cedo, eu demonstrei curiosidade em entender como as coisas funcionam, desmontando aparelhos eletrônicos e mergulhando em livros e tutoriais sobre informática. Essa inquietação criativa me levou a explorar o vasto universo do desenvolvimento de software.
+
+Atualmente, me dedico em dias ao estudo de linguagens de programação, como Html5, Css3, JavaScript, ReactJS. Meu foco principal está em desenvolver soluções inovadoras e funcionais, transformando ideias em realidade através de linhas de código. Eu acredito no poder da tecnologia como uma ferramenta de transformação social, buscando criar projetos que possam facilitar a vida das pessoas e impulsionar mudanças positivas.
+
+Eu sou formado em Ciência da computão, também invisto na formação acadêmica na área de Engenharia da Computação, onde se aprofunda em algoritmos, estrutura de dados e inteligência artificial, Gestão, Elétricas e muito mais, eu estou sempre em busca de desafios.
+
+Com determinação, disciplina e criatividade,  estou construindo uma carreira promissora no universo tecnológico. Eu sonho em um dia liderar projetos que façam a diferença em larga escala, sempre guiado pela convicção de que a tecnologia tem o potencial de tornar o mundo um lugar melhor.
 
 
 ## 🌐 Socials:
